@@ -1,0 +1,239 @@
+[
+  {
+    "interfaces":["java.lang.reflect.TypeVariable"]
+  },
+  {
+    "interfaces":["net.bytebuddy.description.method.MethodDescription$InDefinedShape$AbstractBase$Executable"]
+  },
+  {
+    "interfaces":["net.bytebuddy.description.method.ParameterDescription$ForLoadedParameter$Parameter"]
+  },
+  {
+    "interfaces":["net.bytebuddy.description.method.ParameterList$ForLoadedExecutable$Executable"]
+  },
+  {
+    "interfaces":["net.bytebuddy.description.type.TypeDefinition$Sort$AnnotatedType"]
+  },
+  {
+    "interfaces":["net.bytebuddy.description.type.TypeDescription$ForLoadedType$Dispatcher"]
+  },
+  {
+    "interfaces":["net.bytebuddy.description.type.TypeDescription$Generic$AnnotationReader$Delegator$ForLoadedExecutableParameterType$Dispatcher"]
+  },
+  {
+    "interfaces":["net.bytebuddy.description.type.TypeDescription$Generic$AnnotationReader$Delegator$ForLoadedField$Dispatcher"]
+  },
+  {
+    "interfaces":["net.bytebuddy.description.type.TypeDescription$Generic$AnnotationReader$Delegator$ForLoadedMethodReturnType$Dispatcher"]
+  },
+  {
+    "interfaces":["net.bytebuddy.description.type.TypeDescription$Generic$AnnotationReader$ForOwnerType$AnnotatedType"]
+  },
+  {
+    "interfaces":["net.bytebuddy.description.type.TypeDescription$Generic$AnnotationReader$ForTypeArgument$AnnotatedParameterizedType"]
+  },
+  {
+    "interfaces":["net.bytebuddy.description.type.TypeDescription$Generic$AnnotationReader$ForTypeVariableBoundType$AnnotatedTypeVariable"]
+  },
+  {
+    "interfaces":["net.bytebuddy.description.type.TypeDescription$Generic$AnnotationReader$ForTypeVariableBoundType$OfFormalTypeVariable$FormalTypeVariable"]
+  },
+  {
+    "interfaces":["net.bytebuddy.dynamic.loading.ClassInjector$UsingLookup$MethodHandles"]
+  },
+  {
+    "interfaces":["net.bytebuddy.dynamic.loading.ClassInjector$UsingLookup$MethodHandles$Lookup"]
+  },
+  {
+    "interfaces":["net.bytebuddy.utility.JavaModule$Module"]
+  },
+  {
+    "interfaces":["net.bytebuddy.utility.JavaModule$Resolver"]
+  },
+  {
+    "interfaces":["org.apache.beam.examples.WordCount$WordCountOptions"]
+  },
+  {
+    "interfaces":["org.apache.beam.runners.direct.DirectOptions"]
+  },
+  {
+    "interfaces":["org.apache.beam.runners.direct.DirectOptions","org.apache.beam.runners.direct.DirectTestOptions"]
+  },
+  {
+    "interfaces":["org.apache.beam.runners.direct.DirectOptions","org.apache.beam.runners.portability.testing.TestPortablePipelineOptions","org.apache.beam.runners.direct.DirectTestOptions"]
+  },
+  {
+    "interfaces":["org.apache.beam.runners.direct.DirectOptions","org.apache.beam.runners.portability.testing.TestPortablePipelineOptions","org.apache.beam.runners.direct.DirectTestOptions","org.apache.beam.runners.portability.testing.TestUniversalRunner$Options"]
+  },
+  {
+    "interfaces":["org.apache.beam.runners.direct.DirectOptions","org.apache.beam.sdk.extensions.gcp.options.GcpOptions","org.apache.beam.runners.portability.testing.TestPortablePipelineOptions","org.apache.beam.runners.direct.DirectTestOptions","org.apache.beam.runners.portability.testing.TestUniversalRunner$Options"]
+  },
+  {
+    "interfaces":["org.apache.beam.runners.direct.DirectOptions","org.apache.beam.sdk.extensions.gcp.options.GcpOptions","org.apache.beam.runners.portability.testing.TestPortablePipelineOptions","org.apache.beam.runners.direct.DirectTestOptions","org.apache.beam.runners.portability.testing.TestUniversalRunner$Options","org.apache.beam.sdk.extensions.gcp.options.GcsOptions"]
+  },
+  {
+    "interfaces":["org.apache.beam.runners.direct.DirectOptions","org.apache.beam.sdk.extensions.gcp.options.GcpOptions","org.apache.beam.runners.portability.testing.TestPortablePipelineOptions","org.apache.beam.sdk.extensions.gcp.options.GoogleApiDebugOptions","org.apache.beam.runners.direct.DirectTestOptions","org.apache.beam.runners.portability.testing.TestUniversalRunner$Options","org.apache.beam.sdk.extensions.gcp.options.GcsOptions"]
+  },
+  {
+    "interfaces":["org.apache.beam.runners.direct.DirectOptions","org.apache.beam.sdk.extensions.gcp.options.GcpOptions","org.apache.beam.runners.portability.testing.TestPortablePipelineOptions","org.apache.beam.sdk.extensions.gcp.options.GoogleApiDebugOptions","org.apache.beam.sdk.io.gcp.bigquery.BigQueryOptions","org.apache.beam.runners.direct.DirectTestOptions","org.apache.beam.runners.portability.testing.TestUniversalRunner$Options","org.apache.beam.sdk.extensions.gcp.options.GcsOptions"]
+  },
+  {
+    "interfaces":["org.apache.beam.runners.direct.DirectOptions","org.apache.beam.sdk.io.gcp.bigquery.BigQueryOptions","org.apache.beam.sdk.io.gcp.firestore.FirestoreOptions","org.apache.beam.sdk.options.StreamingOptions","org.apache.beam.sdk.options.PipelineOptions","org.apache.beam.sdk.extensions.gcp.options.GcsOptions","org.apache.beam.sdk.options.ApplicationNameOptions","org.apache.beam.sdk.io.gcp.pubsub.PubsubOptions","org.apache.beam.sdk.extensions.gcp.options.GcpOptions","org.apache.beam.runners.portability.testing.TestPortablePipelineOptions","org.apache.beam.sdk.extensions.gcp.options.GoogleApiDebugOptions","org.apache.beam.runners.direct.DirectTestOptions","org.apache.beam.runners.portability.testing.TestUniversalRunner$Options"]
+  },
+  {
+    "interfaces":["org.apache.beam.runners.direct.DirectOptions","org.apache.beam.sdk.io.gcp.bigquery.BigQueryOptions","org.apache.beam.sdk.io.gcp.firestore.FirestoreOptions","org.apache.beam.sdk.options.StreamingOptions","org.apache.beam.sdk.options.PipelineOptions","org.apache.beam.sdk.extensions.gcp.options.GcsOptions","org.apache.beam.sdk.options.ApplicationNameOptions","org.apache.beam.sdk.io.gcp.pubsub.PubsubOptions","org.apache.beam.sdk.extensions.gcp.options.GcpOptions","org.apache.beam.runners.portability.testing.TestPortablePipelineOptions","org.apache.beam.sdk.extensions.gcp.options.GoogleApiDebugOptions","org.apache.beam.runners.direct.DirectTestOptions","org.apache.beam.runners.portability.testing.TestUniversalRunner$Options","org.apache.beam.sdk.options.ExperimentalOptions"]
+  },
+  {
+    "interfaces":["org.apache.beam.runners.direct.DirectTestOptions"]
+  },
+  {
+    "interfaces":["org.apache.beam.runners.portability.testing.TestPortablePipelineOptions"]
+  },
+  {
+    "interfaces":["org.apache.beam.runners.portability.testing.TestUniversalRunner$Options"]
+  },
+  {
+    "interfaces":["org.apache.beam.sdk.extensions.gcp.options.GcpOptions"]
+  },
+  {
+    "interfaces":["org.apache.beam.sdk.extensions.gcp.options.GcsOptions"]
+  },
+  {
+    "interfaces":["org.apache.beam.sdk.extensions.gcp.options.GoogleApiDebugOptions"]
+  },
+  {
+    "interfaces":["org.apache.beam.sdk.io.gcp.bigquery.BigQueryOptions"]
+  },
+  {
+    "interfaces":["org.apache.beam.sdk.io.gcp.firestore.FirestoreOptions"]
+  },
+  {
+    "interfaces":["org.apache.beam.sdk.io.gcp.pubsub.PubsubOptions"]
+  },
+  {
+    "interfaces":["org.apache.beam.sdk.io.gcp.pubsub.PubsubOptions","org.apache.beam.runners.direct.DirectOptions","org.apache.beam.sdk.extensions.gcp.options.GcpOptions","org.apache.beam.runners.portability.testing.TestPortablePipelineOptions","org.apache.beam.sdk.extensions.gcp.options.GoogleApiDebugOptions","org.apache.beam.sdk.io.gcp.bigquery.BigQueryOptions","org.apache.beam.runners.direct.DirectTestOptions","org.apache.beam.runners.portability.testing.TestUniversalRunner$Options","org.apache.beam.sdk.extensions.gcp.options.GcsOptions"]
+  },
+  {
+    "interfaces":["org.apache.beam.sdk.io.gcp.pubsub.PubsubOptions","org.apache.beam.runners.direct.DirectOptions","org.apache.beam.sdk.extensions.gcp.options.GcpOptions","org.apache.beam.runners.portability.testing.TestPortablePipelineOptions","org.apache.beam.sdk.extensions.gcp.options.GoogleApiDebugOptions","org.apache.beam.sdk.io.gcp.bigquery.BigQueryOptions","org.apache.beam.sdk.io.gcp.firestore.FirestoreOptions","org.apache.beam.runners.direct.DirectTestOptions","org.apache.beam.runners.portability.testing.TestUniversalRunner$Options","org.apache.beam.sdk.extensions.gcp.options.GcsOptions"]
+  },
+  {
+    "interfaces":["org.apache.beam.sdk.io.gcp.pubsub.PubsubOptions","org.apache.beam.runners.direct.DirectOptions","org.apache.beam.sdk.extensions.gcp.options.GcpOptions","org.apache.beam.runners.portability.testing.TestPortablePipelineOptions","org.apache.beam.sdk.extensions.gcp.options.GoogleApiDebugOptions","org.apache.beam.sdk.io.gcp.bigquery.BigQueryOptions","org.apache.beam.sdk.io.gcp.firestore.FirestoreOptions","org.apache.beam.runners.direct.DirectTestOptions","org.apache.beam.sdk.options.PipelineOptions","org.apache.beam.runners.portability.testing.TestUniversalRunner$Options","org.apache.beam.sdk.extensions.gcp.options.GcsOptions"]
+  },
+  {
+    "interfaces":["org.apache.beam.sdk.io.gcp.pubsub.PubsubOptions","org.apache.beam.runners.direct.DirectOptions","org.apache.beam.sdk.extensions.gcp.options.GcpOptions","org.apache.beam.runners.portability.testing.TestPortablePipelineOptions","org.apache.beam.sdk.extensions.gcp.options.GoogleApiDebugOptions","org.apache.beam.sdk.io.gcp.bigquery.BigQueryOptions","org.apache.beam.sdk.io.gcp.firestore.FirestoreOptions","org.apache.beam.runners.direct.DirectTestOptions","org.apache.beam.sdk.options.PipelineOptions","org.apache.beam.runners.portability.testing.TestUniversalRunner$Options","org.apache.beam.sdk.extensions.gcp.options.GcsOptions","org.apache.beam.sdk.options.ApplicationNameOptions"]
+  },
+  {
+    "interfaces":["org.apache.beam.sdk.options.ApplicationNameOptions"]
+  },
+  {
+    "interfaces":["org.apache.beam.sdk.options.ExperimentalOptions"]
+  },
+  {
+    "interfaces":["org.apache.beam.sdk.options.ManualDockerEnvironmentOptions"]
+  },
+  {
+    "interfaces":["org.apache.beam.sdk.options.PipelineOptions"]
+  },
+  {
+    "interfaces":["org.apache.beam.sdk.options.PortablePipelineOptions"]
+  },
+  {
+    "interfaces":["org.apache.beam.sdk.options.RemoteEnvironmentOptions"]
+  },
+  {
+    "interfaces":["org.apache.beam.sdk.options.SdkHarnessOptions"]
+  },
+  {
+    "interfaces":["org.apache.beam.sdk.options.SdkHarnessOptions","org.apache.beam.runners.direct.DirectOptions","org.apache.beam.sdk.io.gcp.bigquery.BigQueryOptions","org.apache.beam.sdk.io.gcp.firestore.FirestoreOptions","org.apache.beam.sdk.options.StreamingOptions","org.apache.beam.sdk.options.ManualDockerEnvironmentOptions","org.apache.beam.sdk.options.PipelineOptions","org.apache.beam.sdk.extensions.gcp.options.GcsOptions","org.apache.beam.sdk.options.ApplicationNameOptions","org.apache.beam.sdk.io.gcp.pubsub.PubsubOptions","org.apache.beam.sdk.extensions.gcp.options.GcpOptions","org.apache.beam.runners.portability.testing.TestPortablePipelineOptions","org.apache.beam.sdk.extensions.gcp.options.GoogleApiDebugOptions","org.apache.beam.runners.direct.DirectTestOptions","org.apache.beam.runners.portability.testing.TestUniversalRunner$Options","org.apache.beam.sdk.options.ExperimentalOptions","org.apache.beam.sdk.options.PortablePipelineOptions"]
+  },
+  {
+    "interfaces":["org.apache.beam.sdk.options.SdkHarnessOptions","org.apache.beam.runners.direct.DirectOptions","org.apache.beam.sdk.io.gcp.bigquery.BigQueryOptions","org.apache.beam.sdk.io.gcp.firestore.FirestoreOptions","org.apache.beam.sdk.options.StreamingOptions","org.apache.beam.sdk.options.PipelineOptions","org.apache.beam.sdk.extensions.gcp.options.GcsOptions","org.apache.beam.sdk.options.ApplicationNameOptions","org.apache.beam.sdk.io.gcp.pubsub.PubsubOptions","org.apache.beam.sdk.extensions.gcp.options.GcpOptions","org.apache.beam.runners.portability.testing.TestPortablePipelineOptions","org.apache.beam.sdk.extensions.gcp.options.GoogleApiDebugOptions","org.apache.beam.runners.direct.DirectTestOptions","org.apache.beam.runners.portability.testing.TestUniversalRunner$Options","org.apache.beam.sdk.options.ExperimentalOptions"]
+  },
+  {
+    "interfaces":["org.apache.beam.sdk.options.SdkHarnessOptions","org.apache.beam.runners.direct.DirectOptions","org.apache.beam.sdk.io.gcp.bigquery.BigQueryOptions","org.apache.beam.sdk.io.gcp.firestore.FirestoreOptions","org.apache.beam.sdk.options.StreamingOptions","org.apache.beam.sdk.options.PipelineOptions","org.apache.beam.sdk.extensions.gcp.options.GcsOptions","org.apache.beam.sdk.options.ApplicationNameOptions","org.apache.beam.sdk.io.gcp.pubsub.PubsubOptions","org.apache.beam.sdk.extensions.gcp.options.GcpOptions","org.apache.beam.runners.portability.testing.TestPortablePipelineOptions","org.apache.beam.sdk.extensions.gcp.options.GoogleApiDebugOptions","org.apache.beam.runners.direct.DirectTestOptions","org.apache.beam.runners.portability.testing.TestUniversalRunner$Options","org.apache.beam.sdk.options.ExperimentalOptions","org.apache.beam.sdk.options.PortablePipelineOptions"]
+  },
+  {
+    "interfaces":["org.apache.beam.sdk.options.SdkHarnessOptions","org.apache.beam.sdk.options.RemoteEnvironmentOptions","org.apache.beam.runners.direct.DirectOptions","org.apache.beam.sdk.io.gcp.bigquery.BigQueryOptions","org.apache.beam.sdk.io.gcp.firestore.FirestoreOptions","org.apache.beam.sdk.options.StreamingOptions","org.apache.beam.sdk.options.ManualDockerEnvironmentOptions","org.apache.beam.examples.WordCount$WordCountOptions","org.apache.beam.sdk.options.PipelineOptions","org.apache.beam.sdk.extensions.gcp.options.GcsOptions","org.apache.beam.sdk.options.ApplicationNameOptions","org.apache.beam.sdk.io.gcp.pubsub.PubsubOptions","org.apache.beam.sdk.extensions.gcp.options.GcpOptions","org.apache.beam.runners.portability.testing.TestPortablePipelineOptions","org.apache.beam.sdk.extensions.gcp.options.GoogleApiDebugOptions","org.apache.beam.runners.direct.DirectTestOptions","org.apache.beam.runners.portability.testing.TestUniversalRunner$Options","org.apache.beam.sdk.transforms.resourcehints.ResourceHintsOptions","org.apache.beam.sdk.options.ExperimentalOptions","org.apache.beam.sdk.options.PortablePipelineOptions"]
+  },
+  {
+    "interfaces":["org.apache.beam.sdk.options.SdkHarnessOptions","org.apache.beam.sdk.options.RemoteEnvironmentOptions","org.apache.beam.runners.direct.DirectOptions","org.apache.beam.sdk.io.gcp.bigquery.BigQueryOptions","org.apache.beam.sdk.io.gcp.firestore.FirestoreOptions","org.apache.beam.sdk.options.StreamingOptions","org.apache.beam.sdk.options.ManualDockerEnvironmentOptions","org.apache.beam.sdk.options.PipelineOptions","org.apache.beam.sdk.extensions.gcp.options.GcsOptions","org.apache.beam.sdk.options.ApplicationNameOptions","org.apache.beam.sdk.io.gcp.pubsub.PubsubOptions","org.apache.beam.sdk.extensions.gcp.options.GcpOptions","org.apache.beam.runners.portability.testing.TestPortablePipelineOptions","org.apache.beam.sdk.extensions.gcp.options.GoogleApiDebugOptions","org.apache.beam.runners.direct.DirectTestOptions","org.apache.beam.runners.portability.testing.TestUniversalRunner$Options","org.apache.beam.sdk.options.ExperimentalOptions","org.apache.beam.sdk.options.PortablePipelineOptions"]
+  },
+  {
+    "interfaces":["org.apache.beam.sdk.options.SdkHarnessOptions","org.apache.beam.sdk.options.RemoteEnvironmentOptions","org.apache.beam.runners.direct.DirectOptions","org.apache.beam.sdk.io.gcp.bigquery.BigQueryOptions","org.apache.beam.sdk.io.gcp.firestore.FirestoreOptions","org.apache.beam.sdk.options.StreamingOptions","org.apache.beam.sdk.options.ManualDockerEnvironmentOptions","org.apache.beam.sdk.options.PipelineOptions","org.apache.beam.sdk.extensions.gcp.options.GcsOptions","org.apache.beam.sdk.options.ApplicationNameOptions","org.apache.beam.sdk.io.gcp.pubsub.PubsubOptions","org.apache.beam.sdk.extensions.gcp.options.GcpOptions","org.apache.beam.runners.portability.testing.TestPortablePipelineOptions","org.apache.beam.sdk.extensions.gcp.options.GoogleApiDebugOptions","org.apache.beam.runners.direct.DirectTestOptions","org.apache.beam.runners.portability.testing.TestUniversalRunner$Options","org.apache.beam.sdk.transforms.resourcehints.ResourceHintsOptions","org.apache.beam.sdk.options.ExperimentalOptions","org.apache.beam.sdk.options.PortablePipelineOptions"]
+  },
+  {
+    "interfaces":["org.apache.beam.sdk.options.StreamingOptions"]
+  },
+  {
+    "interfaces":["org.apache.beam.sdk.transforms.resourcehints.ResourceHintsOptions"]
+  },
+  {
+    "interfaces": ["org.apache.beam.runners.portability.testing.TestPortablePipelineOptions","interface org.apache.beam.runners.direct.DirectOptions","interface org.apache.beam.runners.direct.DirectTestOptions"]
+  },
+  {
+    "interfaces": ["org.apache.beam.runners.direct.DirectTestOptions","org.apache.beam.runners.direct.DirectOptions"]
+  },
+  {
+    "interfaces": ["org.apache.beam.runners.direct.DirectTestOptions","org.apache.beam.runners.direct.DirectOptions","org.apache.beam.runners.portability.testing.TestPortablePipelineOptions"]
+  },
+  {
+    "interfaces": ["org.apache.beam.runners.portability.testing.TestPortablePipelineOptions","org.apache.beam.runners.direct.DirectOptions","org.apache.beam.runners.direct.DirectTestOptions"]
+  },
+  {
+    "interfaces": ["org.apache.beam.runners.portability.testing.TestPortablePipelineOptions","org.apache.beam.runners.direct.DirectTestOptions","org.apache.beam.runners.direct.DirectOptions"]
+  },
+  {
+    "interfaces": ["org.apache.beam.runners.direct.DirectTestOptions","org.apache.beam.runners.direct.DirectOptions","org.apache.beam.runners.portability.testing.TestPortablePipelineOptions","org.apache.beam.runners.portability.testing.TestUniversalRunner$Options"]
+  },
+  {
+    "interfaces": ["org.apache.beam.runners.portability.testing.TestUniversalRunner$Options","org.apache.beam.runners.direct.DirectTestOptions","org.apache.beam.runners.direct.DirectOptions","org.apache.beam.runners.portability.testing.TestPortablePipelineOptions"]
+  },
+  {
+    "interfaces":  ["org.apache.beam.runners.direct.DirectOptions","org.apache.beam.runners.direct.DirectTestOptions","org.apache.beam.runners.portability.testing.TestPortablePipelineOptions"]
+  },
+  {
+    "interfaces":  ["org.apache.beam.runners.direct.DirectOptions","org.apache.beam.runners.direct.DirectTestOptions","org.apache.beam.runners.portability.testing.TestPortablePipelineOptions","org.apache.beam.runners.direct.DirectOptions"]
+  },
+  {
+    "interfaces":  ["org.apache.beam.runners.portability.testing.TestUniversalRunner$Options","org.apache.beam.runners.direct.DirectOptions","org.apache.beam.runners.direct.DirectTestOptions","org.apache.beam.runners.portability.testing.TestPortablePipelineOptions"]
+  },
+  {
+    "interfaces": ["org.apache.beam.runners.direct.DirectTestOptions","org.apache.beam.runners.portability.testing.TestPortablePipelineOptions","org.apache.beam.runners.direct.DirectOptions"]
+  },
+  {
+    "interfaces": ["org.apache.beam.runners.portability.testing.TestPortablePipelineOptions","org.apache.beam.runners.direct.DirectTestOptions","org.apache.beam.runners.direct.DirectOptions","org.apache.beam.runners.portability.testing.TestUniversalRunner$Options"]
+  },
+  {
+    "interfaces": ["org.apache.beam.runners.portability.testing.TestPortablePipelineOptions","org.apache.beam.runners.portability.testing.TestUniversalRunner$Options","org.apache.beam.runners.direct.DirectTestOptions","org.apache.beam.runners.direct.DirectOptions"]
+  },
+  {
+    "interfaces": ["org.apache.beam.runners.portability.testing.TestPortablePipelineOptions","org.apache.beam.runners.portability.testing.TestUniversalRunner$Options","org.apache.beam.runners.direct.DirectOptions","org.apache.beam.runners.direct.DirectTestOptions","org.apache.beam.sdk.extensions.gcp.options.GcpOptions","org.apache.beam.runners.portability.testing.TestPortablePipelineOptions"]
+  },
+  {
+    "interfaces": ["org.apache.beam.runners.portability.testing.TestPortablePipelineOptions","org.apache.beam.runners.portability.testing.TestUniversalRunner$Options","org.apache.beam.runners.direct.DirectTestOptions","org.apache.beam.sdk.extensions.gcp.options.GcpOptions","org.apache.beam.runners.direct.DirectOptions"]
+  },
+  {
+    "interfaces": ["org.apache.beam.sdk.extensions.gcp.options.GcpOptions","org.apache.beam.runners.portability.testing.TestUniversalRunner$Options","org.apache.beam.runners.direct.DirectTestOptions","org.apache.beam.runners.direct.DirectOptions","org.apache.beam.runners.portability.testing.TestPortablePipelineOptions"]
+  },
+  {
+    "interfaces": ["org.apache.beam.runners.direct.DirectTestOptions","org.apache.beam.runners.direct.DirectOptions","org.apache.beam.runners.portability.testing.TestPortablePipelineOptions","org.apache.beam.runners.portability.testing.TestUniversalRunner$Options","org.apache.beam.sdk.extensions.gcp.options.GcpOptions"]
+  },
+  {
+    "interfaces": ["org.apache.beam.runners.direct.DirectTestOptions","org.apache.beam.runners.portability.testing.TestUniversalRunner$Options","org.apache.beam.runners.direct.DirectOptions","org.apache.beam.runners.portability.testing.TestPortablePipelineOptions"]
+  },
+  {
+    "interfaces": ["org.apache.beam.runners.portability.testing.TestPortablePipelineOptions","org.apache.beam.runners.direct.DirectOptions","org.apache.beam.runners.direct.DirectTestOptions","org.apache.beam.runners.portability.testing.TestUniversalRunner$Options"]
+  },
+  {
+    "interfaces": ["org.apache.beam.runners.direct.DirectTestOptions","org.apache.beam.runners.portability.testing.TestPortablePipelineOptions","org.apache.beam.runners.direct.DirectOptions","org.apache.beam.runners.portability.testing.TestUniversalRunner$Options"]
+  },
+  {
+    "interfaces": ["org.apache.beam.runners.direct.DirectOptions","org.apache.beam.runners.direct.DirectTestOptions","org.apache.beam.runners.portability.testing.TestPortablePipelineOptions","org.apache.beam.runners.direct.DirectOptions"]
+  },
+  {
+    "interfaces": ["org.apache.beam.runners.portability.testing.TestPortablePipelineOptions","org.apache.beam.runners.portability.testing.TestUniversalRunner$Options","org.apache.beam.runners.direct.DirectOptions","org.apache.beam.runners.direct.DirectTestOptions","org.apache.beam.sdk.extensions.gcp.options.GcpOptions","org.apache.beam.runners.portability.testing.TestPortablePipelineOptions"]
+  },
+  {
+    "interfaces": ["org.apache.beam.runners.portability.testing.TestPortablePipelineOptions","org.apache.beam.runners.portability.testing.TestUniversalRunner$Options","org.apache.beam.runners.direct.DirectOptions","org.apache.beam.runners.direct.DirectTestOptions"]
+  }
+]

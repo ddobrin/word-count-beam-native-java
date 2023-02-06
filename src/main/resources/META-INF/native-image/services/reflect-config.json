@@ -1,0 +1,1530 @@
+[
+{
+  "name":"[B"
+},
+{
+  "name":"[C"
+},
+{
+  "name":"[Lcom.fasterxml.jackson.databind.deser.Deserializers;"
+},
+{
+  "name":"[Lcom.fasterxml.jackson.databind.deser.KeyDeserializers;"
+},
+{
+  "name":"[Lcom.fasterxml.jackson.databind.deser.ValueInstantiators;"
+},
+{
+  "name":"[Lcom.fasterxml.jackson.databind.ser.Serializers;"
+},
+{
+  "name":"[Ljava.lang.Class;"
+},
+{
+  "name":"[Ljava.lang.Object;"
+},
+{
+  "name":"[Ljava.lang.String;"
+},
+{
+  "name":"[Ljava.lang.reflect.Constructor;"
+},
+{
+  "name":"[Ljava.lang.reflect.Field;"
+},
+{
+  "name":"[Ljava.lang.reflect.Method;"
+},
+{
+  "name":"com.fasterxml.jackson.databind.ext.Java7HandlersImpl",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"com.fasterxml.jackson.databind.ext.Java7SupportImpl",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"com.fasterxml.jackson.databind.ser.std.ClassSerializer",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"com.google.auth.Credentials"
+},
+{
+  "name":"java.io.Serializable",
+  "allDeclaredFields":true,
+  "queryAllDeclaredMethods":true
+},
+{
+  "name":"java.lang.Boolean"
+},
+{
+  "name":"java.lang.Class",
+  "allDeclaredFields":true,
+  "queryAllDeclaredMethods":true,
+  "queryAllDeclaredConstructors":true,
+  "methods":[
+    {"name":"getAnnotatedInterfaces","parameterTypes":[] }, 
+    {"name":"getAnnotatedSuperclass","parameterTypes":[] }, 
+    {"name":"getModule","parameterTypes":[] }, 
+    {"name":"getNestHost","parameterTypes":[] }, 
+    {"name":"getNestMembers","parameterTypes":[] }, 
+    {"name":"getPermittedSubclasses","parameterTypes":[] }, 
+    {"name":"getRecordComponents","parameterTypes":[] }, 
+    {"name":"isNestmateOf","parameterTypes":["java.lang.Class"] }, 
+    {"name":"isRecord","parameterTypes":[] }, 
+    {"name":"isSealed","parameterTypes":[] }
+  ]
+},
+{
+  "name":"java.lang.ClassLoader",
+  "methods":[{"name":"getUnnamedModule","parameterTypes":[] }]
+},
+{
+  "name":"java.lang.Enum"
+},
+{
+  "name":"java.lang.Integer"
+},
+{
+  "name":"java.lang.Iterable",
+  "queryAllDeclaredMethods":true
+},
+{
+  "name":"java.lang.Long"
+},
+{
+  "name":"java.lang.Module",
+  "methods":[
+    {"name":"addExports","parameterTypes":["java.lang.String","java.lang.Module"] }, 
+    {"name":"canRead","parameterTypes":["java.lang.Module"] }, 
+    {"name":"getClassLoader","parameterTypes":[] }, 
+    {"name":"getName","parameterTypes":[] }, 
+    {"name":"getResourceAsStream","parameterTypes":["java.lang.String"] }, 
+    {"name":"isExported","parameterTypes":["java.lang.String"] }, 
+    {"name":"isExported","parameterTypes":["java.lang.String","java.lang.Module"] }, 
+    {"name":"isNamed","parameterTypes":[] }, 
+    {"name":"isOpen","parameterTypes":["java.lang.String","java.lang.Module"] }
+  ]
+},
+{
+  "name":"java.lang.Number"
+},
+{
+  "name":"java.lang.Object",
+  "queryAllDeclaredMethods":true,
+  "queryAllDeclaredConstructors":true,
+  "methods":[
+    {"name":"equals","parameterTypes":["java.lang.Object"] }, 
+    {"name":"getClass","parameterTypes":[] }, 
+    {"name":"hashCode","parameterTypes":[] }, 
+    {"name":"notify","parameterTypes":[] }, 
+    {"name":"notifyAll","parameterTypes":[] }, 
+    {"name":"toString","parameterTypes":[] }, 
+    {"name":"wait","parameterTypes":[] }, 
+    {"name":"wait","parameterTypes":["long"] }, 
+    {"name":"wait","parameterTypes":["long","int"] }
+  ]
+},
+{
+  "name":"java.lang.Runtime",
+  "methods":[{"name":"version","parameterTypes":[] }]
+},
+{
+  "name":"java.lang.Runtime$Version",
+  "methods":[{"name":"major","parameterTypes":[] }]
+},
+{
+  "name":"java.lang.String"
+},
+{
+  "name":"java.lang.System",
+  "methods":[{"name":"getSecurityManager","parameterTypes":[] }]
+},
+{
+  "name":"java.lang.UnsupportedOperationException",
+  "queryAllDeclaredMethods":true,
+  "queryAllDeclaredConstructors":true
+},
+{
+  "name":"java.lang.annotation.Retention",
+  "queryAllDeclaredMethods":true,
+  "queryAllDeclaredConstructors":true
+},
+{
+  "name":"java.lang.annotation.Target",
+  "queryAllDeclaredMethods":true,
+  "queryAllDeclaredConstructors":true
+},
+{
+  "name":"java.lang.constant.Constable",
+  "queryAllDeclaredMethods":true
+},
+{
+  "name":"java.lang.invoke.MethodHandles",
+  "methods":[
+    {"name":"lookup","parameterTypes":[] }, 
+    {"name":"privateLookupIn","parameterTypes":["java.lang.Class","java.lang.invoke.MethodHandles$Lookup"] }
+  ]
+},
+{
+  "name":"java.lang.invoke.MethodHandles$Lookup",
+  "methods":[
+    {"name":"defineClass","parameterTypes":["byte[]"] }, 
+    {"name":"lookupClass","parameterTypes":[] }, 
+    {"name":"lookupModes","parameterTypes":[] }
+  ]
+},
+{
+  "name":"java.lang.invoke.SerializedLambda"
+},
+{
+  "name":"java.lang.invoke.TypeDescriptor",
+  "queryAllDeclaredMethods":true
+},
+{
+  "name":"java.lang.invoke.TypeDescriptor$OfField",
+  "queryAllDeclaredMethods":true
+},
+{
+  "name":"java.lang.management.ManagementFactory",
+  "methods":[{"name":"getRuntimeMXBean","parameterTypes":[] }]
+},
+{
+  "name":"java.lang.management.RuntimeMXBean",
+  "methods":[{"name":"getInputArguments","parameterTypes":[] }]
+},
+{
+  "name":"java.lang.reflect.AnnotatedElement",
+  "queryAllDeclaredMethods":true
+},
+{
+  "name":"java.lang.reflect.AnnotatedParameterizedType",
+  "methods":[{"name":"getAnnotatedActualTypeArguments","parameterTypes":[] }]
+},
+{
+  "name":"java.lang.reflect.AnnotatedType",
+  "methods":[
+    {"name":"getAnnotatedOwnerType","parameterTypes":[] }, 
+    {"name":"getType","parameterTypes":[] }
+  ]
+},
+{
+  "name":"java.lang.reflect.AnnotatedTypeVariable",
+  "methods":[{"name":"getAnnotatedBounds","parameterTypes":[] }]
+},
+{
+  "name":"java.lang.reflect.Executable",
+  "methods":[
+    {"name":"getAnnotatedParameterTypes","parameterTypes":[] }, 
+    {"name":"getAnnotatedReceiverType","parameterTypes":[] }, 
+    {"name":"getParameterCount","parameterTypes":[] }, 
+    {"name":"getParameters","parameterTypes":[] }
+  ]
+},
+{
+  "name":"java.lang.reflect.Field",
+  "methods":[{"name":"getAnnotatedType","parameterTypes":[] }]
+},
+{
+  "name":"java.lang.reflect.GenericDeclaration",
+  "queryAllDeclaredMethods":true
+},
+{
+  "name":"java.lang.reflect.Method",
+  "methods":[{"name":"getAnnotatedReturnType","parameterTypes":[] }]
+},
+{
+  "name":"java.lang.reflect.Parameter",
+  "methods":[
+    {"name":"getModifiers","parameterTypes":[] }, 
+    {"name":"getName","parameterTypes":[] }, 
+    {"name":"isNamePresent","parameterTypes":[] }
+  ]
+},
+{
+  "name":"java.lang.reflect.Proxy",
+  "methods":[{"name":"getInvocationHandler","parameterTypes":["java.lang.Object"] }]
+},
+{
+  "name":"java.lang.reflect.Type",
+  "queryAllDeclaredMethods":true,
+  "methods":[{"name":"getTypeName","parameterTypes":[] }]
+},
+{
+  "name":"java.lang.reflect.TypeVariable",
+  "methods":[{"name":"getAnnotatedBounds","parameterTypes":[] }]
+},
+{
+  "name":"java.nio.Buffer",
+  "fields":[{"name":"address"}]
+},
+{
+  "name":"java.security.AccessController"
+},
+{
+  "name":"java.security.SecureRandomParameters"
+},
+{
+  "name":"java.util.AbstractCollection",
+  "allDeclaredFields":true,
+  "queryAllDeclaredMethods":true
+},
+{
+  "name":"java.util.ArrayList"
+},
+{
+  "name":"java.util.Collection",
+  "queryAllDeclaredMethods":true
+},
+{
+  "name":"java.util.Collections$EmptyList"
+},
+{
+  "name":"java.util.Collections$EmptyMap"
+},
+{
+  "name":"java.util.HashMap"
+},
+{
+  "name":"java.util.List",
+  "queryAllDeclaredMethods":true
+},
+{
+  "name":"java.util.RandomAccess",
+  "queryAllDeclaredMethods":true
+},
+{
+  "name":"java.util.UUID"
+},
+{
+  "name":"java.util.concurrent.ExecutorService"
+},
+{
+  "name":"libcore.io.Memory"
+},
+{
+  "name":"net.bytebuddy.description.method.MethodDescription$InDefinedShape$AbstractBase$Executable",
+  "queryAllPublicMethods":true
+},
+{
+  "name":"net.bytebuddy.description.method.ParameterDescription$ForLoadedParameter$Parameter",
+  "queryAllPublicMethods":true
+},
+{
+  "name":"net.bytebuddy.description.method.ParameterList$ForLoadedExecutable$Executable",
+  "queryAllPublicMethods":true
+},
+{
+  "name":"net.bytebuddy.description.type.TypeDefinition$Sort$AnnotatedType",
+  "queryAllPublicMethods":true
+},
+{
+  "name":"net.bytebuddy.description.type.TypeDescription$ForLoadedType$Dispatcher",
+  "queryAllPublicMethods":true
+},
+{
+  "name":"net.bytebuddy.description.type.TypeDescription$Generic$AnnotationReader$Delegator$ForLoadedExecutableParameterType$Dispatcher",
+  "queryAllPublicMethods":true
+},
+{
+  "name":"net.bytebuddy.description.type.TypeDescription$Generic$AnnotationReader$Delegator$ForLoadedField$Dispatcher",
+  "queryAllPublicMethods":true
+},
+{
+  "name":"net.bytebuddy.description.type.TypeDescription$Generic$AnnotationReader$Delegator$ForLoadedMethodReturnType$Dispatcher",
+  "queryAllPublicMethods":true
+},
+{
+  "name":"net.bytebuddy.description.type.TypeDescription$Generic$AnnotationReader$ForOwnerType$AnnotatedType",
+  "queryAllPublicMethods":true
+},
+{
+  "name":"net.bytebuddy.description.type.TypeDescription$Generic$AnnotationReader$ForTypeArgument$AnnotatedParameterizedType",
+  "queryAllPublicMethods":true
+},
+{
+  "name":"net.bytebuddy.description.type.TypeDescription$Generic$AnnotationReader$ForTypeVariableBoundType$AnnotatedTypeVariable",
+  "queryAllPublicMethods":true
+},
+{
+  "name":"net.bytebuddy.description.type.TypeDescription$Generic$AnnotationReader$ForTypeVariableBoundType$OfFormalTypeVariable$FormalTypeVariable",
+  "queryAllPublicMethods":true
+},
+{
+  "name":"net.bytebuddy.dynamic.loading.ClassInjector$UsingLookup$MethodHandles",
+  "queryAllPublicMethods":true
+},
+{
+  "name":"net.bytebuddy.dynamic.loading.ClassInjector$UsingLookup$MethodHandles$Lookup",
+  "queryAllPublicMethods":true
+},
+{
+  "name":"net.bytebuddy.implementation.bind.annotation.AllArguments",
+  "queryAllDeclaredMethods":true,
+  "queryAllDeclaredConstructors":true
+},
+{
+  "name":"net.bytebuddy.implementation.bind.annotation.Argument",
+  "queryAllDeclaredMethods":true,
+  "queryAllDeclaredConstructors":true,
+  "methods":[
+    {"name":"bindingMechanic","parameterTypes":[] }, 
+    {"name":"value","parameterTypes":[] }
+  ]
+},
+{
+  "name":"net.bytebuddy.implementation.bind.annotation.Argument$BindingMechanic"
+},
+{
+  "name":"net.bytebuddy.implementation.bind.annotation.BindingPriority",
+  "queryAllDeclaredMethods":true,
+  "queryAllDeclaredConstructors":true
+},
+{
+  "name":"net.bytebuddy.implementation.bind.annotation.Default",
+  "queryAllDeclaredMethods":true,
+  "queryAllDeclaredConstructors":true
+},
+{
+  "name":"net.bytebuddy.implementation.bind.annotation.DefaultCall",
+  "queryAllDeclaredMethods":true,
+  "queryAllDeclaredConstructors":true
+},
+{
+  "name":"net.bytebuddy.implementation.bind.annotation.DefaultMethod",
+  "queryAllDeclaredMethods":true,
+  "queryAllDeclaredConstructors":true
+},
+{
+  "name":"net.bytebuddy.implementation.bind.annotation.FieldValue",
+  "queryAllDeclaredMethods":true,
+  "queryAllDeclaredConstructors":true
+},
+{
+  "name":"net.bytebuddy.implementation.bind.annotation.Origin",
+  "queryAllDeclaredMethods":true,
+  "queryAllDeclaredConstructors":true
+},
+{
+  "name":"net.bytebuddy.implementation.bind.annotation.Super",
+  "queryAllDeclaredMethods":true,
+  "queryAllDeclaredConstructors":true
+},
+{
+  "name":"net.bytebuddy.implementation.bind.annotation.SuperCall",
+  "queryAllDeclaredMethods":true,
+  "queryAllDeclaredConstructors":true
+},
+{
+  "name":"net.bytebuddy.implementation.bind.annotation.SuperMethod",
+  "queryAllDeclaredMethods":true,
+  "queryAllDeclaredConstructors":true
+},
+{
+  "name":"net.bytebuddy.implementation.bind.annotation.This",
+  "queryAllDeclaredMethods":true,
+  "queryAllDeclaredConstructors":true
+},
+{
+  "name":"net.bytebuddy.utility.Invoker",
+  "queryAllPublicMethods":true
+},
+{
+  "name":"net.bytebuddy.utility.Invoker$Dispatcher",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"net.bytebuddy.utility.JavaModule$Module",
+  "queryAllPublicMethods":true
+},
+{
+  "name":"net.bytebuddy.utility.JavaModule$Resolver",
+  "queryAllPublicMethods":true
+},
+{
+  "name":"org.apache.beam.examples.WordCount"
+},
+{
+  "name":"org.apache.beam.examples.WordCount$ExtractWordsFn",
+  "allDeclaredFields":true,
+  "queryAllDeclaredMethods":true
+},
+{
+  "name":"org.apache.beam.examples.WordCount$ExtractWordsFn$DoFnInvoker",
+  "methods":[{"name":"<init>","parameterTypes":["org.apache.beam.examples.WordCount$ExtractWordsFn"] }]
+},
+{
+  "name":"org.apache.beam.examples.WordCount$FormatAsTextFn",
+  "methods":[{"name":"apply","parameterTypes":["java.lang.Object"] }]
+},
+{
+  "name":"org.apache.beam.examples.WordCount$WordCountOptions",
+  "queryAllPublicMethods":true,
+  "methods":[
+    {"name":"<init>","parameterTypes":["java.lang.reflect.InvocationHandler"] }, 
+    {"name":"getInputFile","parameterTypes":[] }, 
+    {"name":"getOutput","parameterTypes":[] }, 
+    {"name":"setInputFile","parameterTypes":["java.lang.String"] }, 
+    {"name":"setOutput","parameterTypes":["java.lang.String"] }
+  ]
+},
+{
+  "name":"org.apache.beam.repackaged.direct_java.runners.core.construction.SplittableParDo$ExplodeWindowsFn",
+  "allDeclaredFields":true,
+  "queryAllDeclaredMethods":true
+},
+{
+  "name":"org.apache.beam.repackaged.direct_java.runners.core.construction.SplittableParDo$PairWithRestrictionFn",
+  "allDeclaredFields":true,
+  "queryAllDeclaredMethods":true
+},
+{
+  "name":"org.apache.beam.repackaged.direct_java.runners.core.construction.SplittableParDo$SplitRestrictionFn",
+  "allDeclaredFields":true,
+  "queryAllDeclaredMethods":true
+},
+{
+  "name":"org.apache.beam.repackaged.direct_java.runners.core.construction.TriggerTranslation$ProtoConverter",
+  "methods":[
+    {"name":"convertSpecific","parameterTypes":["org.apache.beam.sdk.transforms.windowing.DefaultTrigger"] }, 
+    {"name":"convertSpecific","parameterTypes":["org.apache.beam.sdk.transforms.windowing.ReshuffleTrigger"] }
+  ]
+},
+{
+  "name":"org.apache.beam.runners.direct.DirectOptions",
+  "queryAllPublicMethods":true,
+  "methods":[
+    {"name":"<init>","parameterTypes":["java.lang.reflect.InvocationHandler"] }, 
+    {"name":"getTargetParallelism","parameterTypes":[] }, 
+    {"name":"isBlockOnRun","parameterTypes":[] }, 
+    {"name":"isEnforceEncodability","parameterTypes":[] }, 
+    {"name":"isEnforceImmutability","parameterTypes":[] }, 
+    {"name":"setBlockOnRun","parameterTypes":["boolean"] }, 
+    {"name":"setEnforceEncodability","parameterTypes":["boolean"] }, 
+    {"name":"setEnforceImmutability","parameterTypes":["boolean"] }, 
+    {"name":"setTargetParallelism","parameterTypes":["int"] }
+  ]
+},
+{
+  "name":"org.apache.beam.runners.direct.DirectOptions$AvailableParallelismFactory",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.beam.runners.direct.DirectRunner",
+  "methods":[{"name":"fromOptions","parameterTypes":["org.apache.beam.sdk.options.PipelineOptions"] }]
+},
+{
+  "name":"org.apache.beam.runners.direct.DirectTestOptions",
+  "queryAllPublicMethods":true,
+  "methods":[
+    {"name":"<init>","parameterTypes":["java.lang.reflect.InvocationHandler"] }, 
+    {"name":"isRunnerDeterminedSharding","parameterTypes":[] }, 
+    {"name":"setRunnerDeterminedSharding","parameterTypes":["boolean"] }
+  ]
+},
+{
+  "name":"org.apache.beam.runners.direct.MultiStepCombine$CombineInputs",
+  "allDeclaredFields":true,
+  "queryAllDeclaredMethods":true
+},
+{
+  "name":"org.apache.beam.runners.direct.MultiStepCombine$CombineInputs$DoFnInvoker",
+  "methods":[{"name":"<init>","parameterTypes":["org.apache.beam.runners.direct.MultiStepCombine$CombineInputs"] }]
+},
+{
+  "name":"org.apache.beam.runners.direct.WriteWithShardingFactory$BoundedRandomIntSupplier"
+},
+{
+  "name":"org.apache.beam.runners.direct.WriteWithShardingFactory$CalculateShardsFn",
+  "allDeclaredFields":true,
+  "queryAllDeclaredMethods":true
+},
+{
+  "name":"org.apache.beam.runners.direct.WriteWithShardingFactory$CalculateShardsFn$DoFnInvoker",
+  "methods":[{"name":"<init>","parameterTypes":["org.apache.beam.runners.direct.WriteWithShardingFactory$CalculateShardsFn"] }]
+},
+{
+  "name":"org.apache.beam.runners.direct.WriteWithShardingFactory$LogElementShardsWithDrift"
+},
+{
+  "name":"org.apache.beam.runners.portability.testing.TestPortablePipelineOptions",
+  "queryAllPublicMethods":true
+},
+{
+  "name":"org.apache.beam.runners.portability.testing.TestUniversalRunner$Options",
+  "queryAllPublicMethods":true
+},
+{
+  "name":"org.apache.beam.sdk.coders.AtomicCoder"
+},
+{
+  "name":"org.apache.beam.sdk.coders.BigEndianLongCoder"
+},
+{
+  "name":"org.apache.beam.sdk.coders.BitSetCoder",
+  "methods":[{"name":"of","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.beam.sdk.coders.BooleanCoder",
+  "methods":[{"name":"of","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.beam.sdk.coders.ByteArrayCoder",
+  "methods":[{"name":"of","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.beam.sdk.coders.ByteCoder",
+  "methods":[{"name":"of","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.beam.sdk.coders.Coder"
+},
+{
+  "name":"org.apache.beam.sdk.coders.DoubleCoder",
+  "methods":[{"name":"of","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.beam.sdk.coders.FloatCoder",
+  "methods":[{"name":"of","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.beam.sdk.coders.InstantCoder",
+  "methods":[{"name":"of","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.beam.sdk.coders.IterableCoder",
+  "methods":[{"name":"of","parameterTypes":["org.apache.beam.sdk.coders.Coder"] }]
+},
+{
+  "name":"org.apache.beam.sdk.coders.IterableLikeCoder"
+},
+{
+  "name":"org.apache.beam.sdk.coders.KvCoder",
+  "methods":[{"name":"of","parameterTypes":["org.apache.beam.sdk.coders.Coder","org.apache.beam.sdk.coders.Coder"] }]
+},
+{
+  "name":"org.apache.beam.sdk.coders.ListCoder",
+  "methods":[{"name":"of","parameterTypes":["org.apache.beam.sdk.coders.Coder"] }]
+},
+{
+  "name":"org.apache.beam.sdk.coders.MapCoder",
+  "methods":[{"name":"of","parameterTypes":["org.apache.beam.sdk.coders.Coder","org.apache.beam.sdk.coders.Coder"] }]
+},
+{
+  "name":"org.apache.beam.sdk.coders.NullableCoder"
+},
+{
+  "name":"org.apache.beam.sdk.coders.SetCoder",
+  "methods":[{"name":"of","parameterTypes":["org.apache.beam.sdk.coders.Coder"] }]
+},
+{
+  "name":"org.apache.beam.sdk.coders.StringUtf8Coder",
+  "methods":[{"name":"of","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.beam.sdk.coders.StructuredCoder"
+},
+{
+  "name":"org.apache.beam.sdk.coders.VarIntCoder",
+  "methods":[{"name":"of","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.beam.sdk.coders.VarLongCoder",
+  "methods":[{"name":"of","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.beam.sdk.coders.VoidCoder",
+  "methods":[{"name":"of","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.beam.sdk.extensions.gcp.options.GcpOptions",
+  "queryAllPublicMethods":true,
+  "methods":[
+    {"name":"getCredentialFactoryClass","parameterTypes":[] }, 
+    {"name":"getDataflowKmsKey","parameterTypes":[] }, 
+    {"name":"getGcpCredential","parameterTypes":[] }, 
+    {"name":"getGcpOauthScopes","parameterTypes":[] }, 
+    {"name":"getGcpTempLocation","parameterTypes":[] }, 
+    {"name":"getImpersonateServiceAccount","parameterTypes":[] }, 
+    {"name":"getProject","parameterTypes":[] }, 
+    {"name":"getWorkerRegion","parameterTypes":[] }, 
+    {"name":"getWorkerZone","parameterTypes":[] }, 
+    {"name":"getZone","parameterTypes":[] }, 
+    {"name":"isEnableStreamingEngine","parameterTypes":[] }, 
+    {"name":"setCredentialFactoryClass","parameterTypes":["java.lang.Class"] }, 
+    {"name":"setDataflowKmsKey","parameterTypes":["java.lang.String"] }, 
+    {"name":"setEnableStreamingEngine","parameterTypes":["boolean"] }, 
+    {"name":"setGcpCredential","parameterTypes":["com.google.auth.Credentials"] }, 
+    {"name":"setGcpOauthScopes","parameterTypes":["java.util.List"] }, 
+    {"name":"setGcpTempLocation","parameterTypes":["java.lang.String"] }, 
+    {"name":"setImpersonateServiceAccount","parameterTypes":["java.lang.String"] }, 
+    {"name":"setProject","parameterTypes":["java.lang.String"] }, 
+    {"name":"setWorkerRegion","parameterTypes":["java.lang.String"] }, 
+    {"name":"setWorkerZone","parameterTypes":["java.lang.String"] }, 
+    {"name":"setZone","parameterTypes":["java.lang.String"] }
+  ]
+},
+{
+  "name":"org.apache.beam.sdk.extensions.gcp.options.GcsOptions",
+  "queryAllPublicMethods":true,
+  "methods":[
+    {"name":"<init>","parameterTypes":["java.lang.reflect.InvocationHandler"] }, 
+    {"name":"getExecutorService","parameterTypes":[] }, 
+    {"name":"getGcsEndpoint","parameterTypes":[] }, 
+    {"name":"getGcsPerformanceMetrics","parameterTypes":[] }, 
+    {"name":"getGcsUploadBufferSizeBytes","parameterTypes":[] }, 
+    {"name":"getGcsUtil","parameterTypes":[] }, 
+    {"name":"getPathValidator","parameterTypes":[] }, 
+    {"name":"getPathValidatorClass","parameterTypes":[] }, 
+    {"name":"setExecutorService","parameterTypes":["java.util.concurrent.ExecutorService"] }, 
+    {"name":"setGcsEndpoint","parameterTypes":["java.lang.String"] }, 
+    {"name":"setGcsPerformanceMetrics","parameterTypes":["java.lang.Boolean"] }, 
+    {"name":"setGcsUploadBufferSizeBytes","parameterTypes":["java.lang.Integer"] }, 
+    {"name":"setGcsUtil","parameterTypes":["org.apache.beam.sdk.extensions.gcp.util.GcsUtil"] }, 
+    {"name":"setPathValidator","parameterTypes":["org.apache.beam.sdk.extensions.gcp.storage.PathValidator"] }, 
+    {"name":"setPathValidatorClass","parameterTypes":["java.lang.Class"] }
+  ]
+},
+{
+  "name":"org.apache.beam.sdk.extensions.gcp.options.GoogleApiDebugOptions",
+  "queryAllPublicMethods":true,
+  "methods":[
+    {"name":"getGoogleApiTrace","parameterTypes":[] }, 
+    {"name":"setGoogleApiTrace","parameterTypes":["org.apache.beam.sdk.extensions.gcp.options.GoogleApiDebugOptions$GoogleApiTracer"] }
+  ]
+},
+{
+  "name":"org.apache.beam.sdk.extensions.gcp.options.GoogleApiDebugOptions$GoogleApiTracer"
+},
+{
+  "name":"org.apache.beam.sdk.extensions.gcp.storage.PathValidator"
+},
+{
+  "name":"org.apache.beam.sdk.extensions.gcp.util.GcsUtil"
+},
+{
+  "name":"org.apache.beam.sdk.io.AutoValue_WriteFiles"
+},
+{
+  "name":"org.apache.beam.sdk.io.BoundedSource"
+},
+{
+  "name":"org.apache.beam.sdk.io.CompressedSource"
+},
+{
+  "name":"org.apache.beam.sdk.io.CompressedSource$CompressionMode"
+},
+{
+  "name":"org.apache.beam.sdk.io.DefaultFilenamePolicy"
+},
+{
+  "name":"org.apache.beam.sdk.io.DefaultFilenamePolicy$Params"
+},
+{
+  "name":"org.apache.beam.sdk.io.DynamicFileDestinations$ConstantFilenamePolicy"
+},
+{
+  "name":"org.apache.beam.sdk.io.FileBasedSink"
+},
+{
+  "name":"org.apache.beam.sdk.io.FileBasedSink$CompressionType"
+},
+{
+  "name":"org.apache.beam.sdk.io.FileBasedSink$DynamicDestinations"
+},
+{
+  "name":"org.apache.beam.sdk.io.FileBasedSink$ExtractDirectory"
+},
+{
+  "name":"org.apache.beam.sdk.io.FileBasedSink$FileResultCoder"
+},
+{
+  "name":"org.apache.beam.sdk.io.FileBasedSink$FilenamePolicy"
+},
+{
+  "name":"org.apache.beam.sdk.io.FileBasedSink$WriteOperation"
+},
+{
+  "name":"org.apache.beam.sdk.io.FileBasedSink$WriteOperation$TempSubDirType"
+},
+{
+  "name":"org.apache.beam.sdk.io.FileBasedSource"
+},
+{
+  "name":"org.apache.beam.sdk.io.FileBasedSource$Mode"
+},
+{
+  "name":"org.apache.beam.sdk.io.LocalResourceId"
+},
+{
+  "name":"org.apache.beam.sdk.io.OffsetBasedSource"
+},
+{
+  "name":"org.apache.beam.sdk.io.Read$BoundedSourceAsSDFWrapperFn",
+  "allDeclaredFields":true,
+  "queryAllDeclaredMethods":true
+},
+{
+  "name":"org.apache.beam.sdk.io.Read$BoundedSourceAsSDFWrapperFn$DoFnInvoker",
+  "fields":[{"name":"delegate$a9jtlr1"}],
+  "methods":[{"name":"<init>","parameterTypes":["org.apache.beam.sdk.io.Read$BoundedSourceAsSDFWrapperFn"] }]
+},
+{
+  "name":"org.apache.beam.sdk.io.Read$OutputSingleSource",
+  "allDeclaredFields":true,
+  "queryAllDeclaredMethods":true
+},
+{
+  "name":"org.apache.beam.sdk.io.ReadableFileCoder",
+  "methods":[{"name":"of","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.beam.sdk.io.Source"
+},
+{
+  "name":"org.apache.beam.sdk.io.TextSink"
+},
+{
+  "name":"org.apache.beam.sdk.io.TextSink$TextWriteOperation"
+},
+{
+  "name":"org.apache.beam.sdk.io.TextSource"
+},
+{
+  "name":"org.apache.beam.sdk.io.WriteFiles"
+},
+{
+  "name":"org.apache.beam.sdk.io.WriteFiles$ApplyShardingFunctionFn",
+  "allDeclaredFields":true,
+  "queryAllDeclaredMethods":true
+},
+{
+  "name":"org.apache.beam.sdk.io.WriteFiles$ApplyShardingFunctionFn$DoFnInvoker",
+  "methods":[{"name":"<init>","parameterTypes":["org.apache.beam.sdk.io.WriteFiles$ApplyShardingFunctionFn"] }]
+},
+{
+  "name":"org.apache.beam.sdk.io.WriteFiles$FinalizeTempFileBundles"
+},
+{
+  "name":"org.apache.beam.sdk.io.WriteFiles$FinalizeTempFileBundles$FinalizeFn",
+  "allDeclaredFields":true,
+  "queryAllDeclaredMethods":true
+},
+{
+  "name":"org.apache.beam.sdk.io.WriteFiles$FinalizeTempFileBundles$FinalizeFn$DoFnInvoker",
+  "methods":[{"name":"<init>","parameterTypes":["org.apache.beam.sdk.io.WriteFiles$FinalizeTempFileBundles$FinalizeFn"] }]
+},
+{
+  "name":"org.apache.beam.sdk.io.WriteFiles$RandomShardingFunction"
+},
+{
+  "name":"org.apache.beam.sdk.io.WriteFiles$WriteShardsIntoTempFilesFn",
+  "allDeclaredFields":true,
+  "queryAllDeclaredMethods":true
+},
+{
+  "name":"org.apache.beam.sdk.io.WriteFiles$WriteShardsIntoTempFilesFn$DoFnInvoker",
+  "methods":[{"name":"<init>","parameterTypes":["org.apache.beam.sdk.io.WriteFiles$WriteShardsIntoTempFilesFn"] }]
+},
+{
+  "name":"org.apache.beam.sdk.io.WriteFiles$WriteUnshardedBundlesToTempFiles$1",
+  "allDeclaredFields":true,
+  "queryAllDeclaredMethods":true
+},
+{
+  "name":"org.apache.beam.sdk.io.WriteFiles$WriteUnshardedTempFilesFn",
+  "allDeclaredFields":true,
+  "queryAllDeclaredMethods":true
+},
+{
+  "name":"org.apache.beam.sdk.io.fs.EmptyMatchTreatment"
+},
+{
+  "name":"org.apache.beam.sdk.io.fs.MetadataCoder",
+  "methods":[{"name":"of","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.beam.sdk.io.fs.ResourceIdCoder",
+  "methods":[{"name":"of","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.beam.sdk.io.gcp.bigquery.BigQueryOptions",
+  "queryAllPublicMethods":true
+},
+{
+  "name":"org.apache.beam.sdk.io.gcp.firestore.FirestoreOptions",
+  "queryAllPublicMethods":true
+},
+{
+  "name":"org.apache.beam.sdk.io.gcp.pubsub.PubsubOptions",
+  "queryAllPublicMethods":true
+},
+{
+  "name":"org.apache.beam.sdk.io.range.OffsetRange$Coder"
+},
+{
+  "name":"org.apache.beam.sdk.metrics.AutoValue_MetricName"
+},
+{
+  "name":"org.apache.beam.sdk.metrics.DelegatingCounter"
+},
+{
+  "name":"org.apache.beam.sdk.metrics.MetricName"
+},
+{
+  "name":"org.apache.beam.sdk.metrics.Metrics$DelegatingDistribution"
+},
+{
+  "name":"org.apache.beam.sdk.options.ApplicationNameOptions",
+  "queryAllPublicMethods":true,
+  "methods":[
+    {"name":"<init>","parameterTypes":["java.lang.reflect.InvocationHandler"] }, 
+    {"name":"getAppName","parameterTypes":[] }, 
+    {"name":"setAppName","parameterTypes":["java.lang.String"] }
+  ]
+},
+{
+  "name":"org.apache.beam.sdk.options.Default",
+  "allDeclaredClasses":true
+},
+{
+  "name":"org.apache.beam.sdk.options.ExperimentalOptions",
+  "queryAllPublicMethods":true,
+  "methods":[
+    {"name":"<init>","parameterTypes":["java.lang.reflect.InvocationHandler"] }, 
+    {"name":"getExperiments","parameterTypes":[] }, 
+    {"name":"setExperiments","parameterTypes":["java.util.List"] }
+  ]
+},
+{
+  "name":"org.apache.beam.sdk.options.FileStagingOptions",
+  "queryAllPublicMethods":true,
+  "methods":[
+    {"name":"getFilesToStage","parameterTypes":[] }, 
+    {"name":"setFilesToStage","parameterTypes":["java.util.List"] }
+  ]
+},
+{
+  "name":"org.apache.beam.sdk.options.ManualDockerEnvironmentOptions",
+  "queryAllPublicMethods":true
+},
+{
+  "name":"org.apache.beam.sdk.options.PipelineOptions",
+  "queryAllPublicMethods":true,
+  "methods":[
+    {"name":"<init>","parameterTypes":["java.lang.reflect.InvocationHandler"] }, 
+    {"name":"as","parameterTypes":["java.lang.Class"] }, 
+    {"name":"getJobName","parameterTypes":[] }, 
+    {"name":"getOptionsId","parameterTypes":[] }, 
+    {"name":"getRunner","parameterTypes":[] }, 
+    {"name":"getStableUniqueNames","parameterTypes":[] }, 
+    {"name":"getTempLocation","parameterTypes":[] }, 
+    {"name":"getUserAgent","parameterTypes":[] }, 
+    {"name":"outputRuntimeOptions","parameterTypes":[] }, 
+    {"name":"setJobName","parameterTypes":["java.lang.String"] }, 
+    {"name":"setOptionsId","parameterTypes":["long"] }, 
+    {"name":"setRunner","parameterTypes":["java.lang.Class"] }, 
+    {"name":"setStableUniqueNames","parameterTypes":["org.apache.beam.sdk.options.PipelineOptions$CheckEnabled"] }, 
+    {"name":"setTempLocation","parameterTypes":["java.lang.String"] }, 
+    {"name":"setUserAgent","parameterTypes":["java.lang.String"] }
+  ]
+},
+{
+  "name":"org.apache.beam.sdk.options.PipelineOptions$AtomicLongFactory",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.beam.sdk.options.PipelineOptions$CheckEnabled",
+  "allDeclaredFields":true,
+  "queryAllDeclaredMethods":true
+},
+{
+  "name":"org.apache.beam.sdk.options.PipelineOptions$DirectRunner",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.beam.sdk.options.PortablePipelineOptions",
+  "queryAllPublicMethods":true,
+  "methods":[
+    {"name":"<init>","parameterTypes":["java.lang.reflect.InvocationHandler"] }, 
+    {"name":"getDefaultEnvironmentConfig","parameterTypes":[] }, 
+    {"name":"getDefaultEnvironmentType","parameterTypes":[] }, 
+    {"name":"getEnvironmentCacheMillis","parameterTypes":[] }, 
+    {"name":"getEnvironmentExpirationMillis","parameterTypes":[] }, 
+    {"name":"getEnvironmentOptions","parameterTypes":[] }, 
+    {"name":"getJobEndpoint","parameterTypes":[] }, 
+    {"name":"getJobServerTimeout","parameterTypes":[] }, 
+    {"name":"getLoadBalanceBundles","parameterTypes":[] }, 
+    {"name":"getOutputExecutablePath","parameterTypes":[] }, 
+    {"name":"getSdkWorkerParallelism","parameterTypes":[] }, 
+    {"name":"setDefaultEnvironmentConfig","parameterTypes":["java.lang.String"] }, 
+    {"name":"setDefaultEnvironmentType","parameterTypes":["java.lang.String"] }, 
+    {"name":"setEnvironmentCacheMillis","parameterTypes":["int"] }, 
+    {"name":"setEnvironmentExpirationMillis","parameterTypes":["int"] }, 
+    {"name":"setEnvironmentOptions","parameterTypes":["java.util.List"] }, 
+    {"name":"setJobEndpoint","parameterTypes":["java.lang.String"] }, 
+    {"name":"setJobServerTimeout","parameterTypes":["int"] }, 
+    {"name":"setLoadBalanceBundles","parameterTypes":["boolean"] }, 
+    {"name":"setOutputExecutablePath","parameterTypes":["java.lang.String"] }, 
+    {"name":"setSdkWorkerParallelism","parameterTypes":["int"] }
+  ]
+},
+{
+  "name":"org.apache.beam.sdk.options.ProxyInvocationHandler$Deserializer",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.beam.sdk.options.ProxyInvocationHandler$Serializer",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.beam.sdk.options.RemoteEnvironmentOptions",
+  "queryAllPublicMethods":true
+},
+{
+  "name":"org.apache.beam.sdk.options.SdkHarnessOptions",
+  "queryAllPublicMethods":true
+},
+{
+  "name":"org.apache.beam.sdk.options.StreamingOptions",
+  "queryAllPublicMethods":true
+},
+{
+  "name":"org.apache.beam.sdk.options.ValueProvider$NestedValueProvider"
+},
+{
+  "name":"org.apache.beam.sdk.options.ValueProvider$StaticValueProvider"
+},
+{
+  "name":"org.apache.beam.sdk.schemas.AutoValue_FieldAccessDescriptor"
+},
+{
+  "name":"org.apache.beam.sdk.schemas.FieldAccessDescriptor"
+},
+{
+  "name":"org.apache.beam.sdk.testing.TestPipelineOptions",
+  "queryAllPublicMethods":true
+},
+{
+  "name":"org.apache.beam.sdk.transforms.AutoValue_DoFnSchemaInformation"
+},
+{
+  "name":"org.apache.beam.sdk.transforms.Combine$BinaryCombineFn"
+},
+{
+  "name":"org.apache.beam.sdk.transforms.Combine$CombineFn"
+},
+{
+  "name":"org.apache.beam.sdk.transforms.Combine$Globally"
+},
+{
+  "name":"org.apache.beam.sdk.transforms.Combine$Globally$1",
+  "allDeclaredFields":true,
+  "queryAllDeclaredMethods":true
+},
+{
+  "name":"org.apache.beam.sdk.transforms.Combine$Globally$1$DoFnInvoker",
+  "methods":[{"name":"<init>","parameterTypes":["org.apache.beam.sdk.transforms.Combine$Globally$1"] }]
+},
+{
+  "name":"org.apache.beam.sdk.transforms.Combine$GloballyAsSingletonView"
+},
+{
+  "name":"org.apache.beam.sdk.transforms.Combine$GroupedValues$1",
+  "allDeclaredFields":true,
+  "queryAllDeclaredMethods":true
+},
+{
+  "name":"org.apache.beam.sdk.transforms.CombineFnBase$AbstractGlobalCombineFn"
+},
+{
+  "name":"org.apache.beam.sdk.transforms.Contextful"
+},
+{
+  "name":"org.apache.beam.sdk.transforms.Count$CountFn"
+},
+{
+  "name":"org.apache.beam.sdk.transforms.Count$PerElement"
+},
+{
+  "name":"org.apache.beam.sdk.transforms.Count$PerElement$1",
+  "allDeclaredFields":true,
+  "methods":[{"name":"apply","parameterTypes":["java.lang.Object"] }]
+},
+{
+  "name":"org.apache.beam.sdk.transforms.Create$Values$CreateSource"
+},
+{
+  "name":"org.apache.beam.sdk.transforms.DoFn"
+},
+{
+  "name":"org.apache.beam.sdk.transforms.DoFn$ProcessContinuation",
+  "methods":[{"name":"stop","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.beam.sdk.transforms.DoFnSchemaInformation"
+},
+{
+  "name":"org.apache.beam.sdk.transforms.InferableFunction",
+  "methods":[{"name":"apply","parameterTypes":["java.lang.Object"] }]
+},
+{
+  "name":"org.apache.beam.sdk.transforms.MapElements"
+},
+{
+  "name":"org.apache.beam.sdk.transforms.MapElements$1",
+  "allDeclaredFields":true,
+  "queryAllDeclaredMethods":true
+},
+{
+  "name":"org.apache.beam.sdk.transforms.MapElements$1$DoFnInvoker",
+  "methods":[{"name":"<init>","parameterTypes":["org.apache.beam.sdk.transforms.MapElements$1"] }]
+},
+{
+  "name":"org.apache.beam.sdk.transforms.PTransform"
+},
+{
+  "name":"org.apache.beam.sdk.transforms.Reify$ExtractTimestampsFromValues"
+},
+{
+  "name":"org.apache.beam.sdk.transforms.Reify$ExtractTimestampsFromValues$1",
+  "allDeclaredFields":true,
+  "queryAllDeclaredMethods":true
+},
+{
+  "name":"org.apache.beam.sdk.transforms.Reify$ExtractTimestampsFromValues$1$DoFnInvoker",
+  "methods":[{"name":"<init>","parameterTypes":["org.apache.beam.sdk.transforms.Reify$ExtractTimestampsFromValues$1"] }]
+},
+{
+  "name":"org.apache.beam.sdk.transforms.Reify$ReifyView"
+},
+{
+  "name":"org.apache.beam.sdk.transforms.Reify$ReifyView$1",
+  "allDeclaredFields":true,
+  "queryAllDeclaredMethods":true
+},
+{
+  "name":"org.apache.beam.sdk.transforms.Reify$ReifyView$1$DoFnInvoker",
+  "methods":[{"name":"<init>","parameterTypes":["org.apache.beam.sdk.transforms.Reify$ReifyView$1"] }]
+},
+{
+  "name":"org.apache.beam.sdk.transforms.Reify$TimestampInValue"
+},
+{
+  "name":"org.apache.beam.sdk.transforms.Reify$TimestampInValue$1",
+  "allDeclaredFields":true,
+  "queryAllDeclaredMethods":true
+},
+{
+  "name":"org.apache.beam.sdk.transforms.Reify$TimestampInValue$1$DoFnInvoker",
+  "methods":[{"name":"<init>","parameterTypes":["org.apache.beam.sdk.transforms.Reify$TimestampInValue$1"] }]
+},
+{
+  "name":"org.apache.beam.sdk.transforms.ReifyTimestamps$RemoveWildcard"
+},
+{
+  "name":"org.apache.beam.sdk.transforms.ReifyTimestamps$RemoveWildcard$1",
+  "allDeclaredFields":true,
+  "queryAllDeclaredMethods":true
+},
+{
+  "name":"org.apache.beam.sdk.transforms.ReifyTimestamps$RemoveWildcard$1$DoFnInvoker",
+  "methods":[{"name":"<init>","parameterTypes":["org.apache.beam.sdk.transforms.ReifyTimestamps$RemoveWildcard$1"] }]
+},
+{
+  "name":"org.apache.beam.sdk.transforms.Requirements"
+},
+{
+  "name":"org.apache.beam.sdk.transforms.Reshuffle"
+},
+{
+  "name":"org.apache.beam.sdk.transforms.Reshuffle$1",
+  "allDeclaredFields":true,
+  "queryAllDeclaredMethods":true
+},
+{
+  "name":"org.apache.beam.sdk.transforms.Reshuffle$1$DoFnInvoker",
+  "methods":[{"name":"<init>","parameterTypes":["org.apache.beam.sdk.transforms.Reshuffle$1"] }]
+},
+{
+  "name":"org.apache.beam.sdk.transforms.Reshuffle$AssignShardFn",
+  "allDeclaredFields":true,
+  "queryAllDeclaredMethods":true
+},
+{
+  "name":"org.apache.beam.sdk.transforms.Reshuffle$AssignShardFn$DoFnInvoker",
+  "methods":[{"name":"<init>","parameterTypes":["org.apache.beam.sdk.transforms.Reshuffle$AssignShardFn"] }]
+},
+{
+  "name":"org.apache.beam.sdk.transforms.SerializableFunctions$Identity"
+},
+{
+  "name":"org.apache.beam.sdk.transforms.SimpleFunction",
+  "methods":[{"name":"apply","parameterTypes":["java.lang.Object"] }]
+},
+{
+  "name":"org.apache.beam.sdk.transforms.Values"
+},
+{
+  "name":"org.apache.beam.sdk.transforms.Values$1",
+  "allDeclaredFields":true,
+  "methods":[{"name":"apply","parameterTypes":["java.lang.Object"] }]
+},
+{
+  "name":"org.apache.beam.sdk.transforms.View$AsIterable"
+},
+{
+  "name":"org.apache.beam.sdk.transforms.View$AsIterable$1",
+  "allDeclaredFields":true
+},
+{
+  "name":"org.apache.beam.sdk.transforms.View$AsList"
+},
+{
+  "name":"org.apache.beam.sdk.transforms.View$SingletonCombineFn"
+},
+{
+  "name":"org.apache.beam.sdk.transforms.View$ToListViewDoFn",
+  "allDeclaredFields":true,
+  "queryAllDeclaredMethods":true
+},
+{
+  "name":"org.apache.beam.sdk.transforms.View$ToListViewDoFn$DoFnInvoker",
+  "methods":[{"name":"<init>","parameterTypes":["org.apache.beam.sdk.transforms.View$ToListViewDoFn"] }]
+},
+{
+  "name":"org.apache.beam.sdk.transforms.ViewFn"
+},
+{
+  "name":"org.apache.beam.sdk.transforms.WithKeys"
+},
+{
+  "name":"org.apache.beam.sdk.transforms.WithKeys$1",
+  "allDeclaredFields":true,
+  "methods":[{"name":"apply","parameterTypes":["java.lang.Object"] }]
+},
+{
+  "name":"org.apache.beam.sdk.transforms.display.AutoValue_DisplayData_Item",
+  "allDeclaredFields":true,
+  "queryAllDeclaredMethods":true,
+  "queryAllDeclaredConstructors":true,
+  "methods":[
+    {"name":"getKey","parameterTypes":[] }, 
+    {"name":"getLabel","parameterTypes":[] }, 
+    {"name":"getLinkUrl","parameterTypes":[] }, 
+    {"name":"getNamespace","parameterTypes":[] }, 
+    {"name":"getShortValue","parameterTypes":[] }, 
+    {"name":"getType","parameterTypes":[] }, 
+    {"name":"getValue","parameterTypes":[] }
+  ]
+},
+{
+  "name":"org.apache.beam.sdk.transforms.display.AutoValue_DisplayData_ItemSpec"
+},
+{
+  "name":"org.apache.beam.sdk.transforms.display.DisplayData$Builder"
+},
+{
+  "name":"org.apache.beam.sdk.transforms.display.DisplayData$Item",
+  "allDeclaredFields":true,
+  "queryAllDeclaredMethods":true
+},
+{
+  "name":"org.apache.beam.sdk.transforms.display.DisplayData$ItemSpec"
+},
+{
+  "name":"org.apache.beam.sdk.transforms.display.DisplayData$Type",
+  "allDeclaredFields":true,
+  "queryAllDeclaredMethods":true
+},
+{
+  "name":"org.apache.beam.sdk.transforms.display.DisplayData$Type$1",
+  "allDeclaredFields":true,
+  "queryAllDeclaredMethods":true
+},
+{
+  "name":"org.apache.beam.sdk.transforms.display.HasDisplayData",
+  "allDeclaredFields":true,
+  "queryAllDeclaredMethods":true,
+  "queryAllPublicMethods":true,
+  "methods":[{"name":"populateDisplayData","parameterTypes":["org.apache.beam.sdk.transforms.display.DisplayData$Builder"] }]
+},
+{
+  "name":"org.apache.beam.sdk.transforms.reflect.ByteBuddyDoFnInvokerFactory$DefaultGetInitialWatermarkEstimatorState",
+  "queryAllDeclaredMethods":true,
+  "queryAllDeclaredConstructors":true
+},
+{
+  "name":"org.apache.beam.sdk.transforms.reflect.ByteBuddyDoFnInvokerFactory$DefaultGetSize",
+  "queryAllDeclaredMethods":true,
+  "queryAllDeclaredConstructors":true,
+  "methods":[{"name":"validateSize","parameterTypes":["double"] }]
+},
+{
+  "name":"org.apache.beam.sdk.transforms.reflect.ByteBuddyDoFnInvokerFactory$DefaultNewTracker",
+  "queryAllDeclaredMethods":true,
+  "queryAllDeclaredConstructors":true
+},
+{
+  "name":"org.apache.beam.sdk.transforms.reflect.ByteBuddyDoFnInvokerFactory$DefaultNewWatermarkEstimator",
+  "queryAllDeclaredMethods":true,
+  "queryAllDeclaredConstructors":true
+},
+{
+  "name":"org.apache.beam.sdk.transforms.reflect.ByteBuddyDoFnInvokerFactory$DefaultSplitRestriction",
+  "queryAllDeclaredMethods":true,
+  "queryAllDeclaredConstructors":true
+},
+{
+  "name":"org.apache.beam.sdk.transforms.reflect.ByteBuddyDoFnInvokerFactory$DefaultTruncateRestriction",
+  "queryAllDeclaredMethods":true,
+  "queryAllDeclaredConstructors":true
+},
+{
+  "name":"org.apache.beam.sdk.transforms.reflect.ByteBuddyDoFnInvokerFactory$DefaultWatermarkEstimatorStateCoder",
+  "queryAllDeclaredMethods":true,
+  "queryAllDeclaredConstructors":true
+},
+{
+  "name":"org.apache.beam.sdk.transforms.reflect.ByteBuddyDoFnInvokerFactory$DoFnInvokerBase",
+  "allDeclaredFields":true,
+  "queryAllDeclaredMethods":true,
+  "queryAllDeclaredConstructors":true
+},
+{
+  "name":"org.apache.beam.sdk.transforms.reflect.DoFnInvoker",
+  "queryAllDeclaredMethods":true,
+  "queryAllDeclaredConstructors":true
+},
+{
+  "name":"org.apache.beam.sdk.transforms.reflect.DoFnInvoker$ArgumentProvider",
+  "methods":[
+    {"name":"element","parameterTypes":["org.apache.beam.sdk.transforms.DoFn"] }, 
+    {"name":"finishBundleContext","parameterTypes":["org.apache.beam.sdk.transforms.DoFn"] }, 
+    {"name":"outputReceiver","parameterTypes":["org.apache.beam.sdk.transforms.DoFn"] }, 
+    {"name":"pipelineOptions","parameterTypes":[] }, 
+    {"name":"processContext","parameterTypes":["org.apache.beam.sdk.transforms.DoFn"] }, 
+    {"name":"restriction","parameterTypes":[] }, 
+    {"name":"restrictionTracker","parameterTypes":[] }, 
+    {"name":"timestamp","parameterTypes":["org.apache.beam.sdk.transforms.DoFn"] }, 
+    {"name":"window","parameterTypes":[] }
+  ]
+},
+{
+  "name":"org.apache.beam.sdk.transforms.resourcehints.ResourceHintsOptions",
+  "queryAllPublicMethods":true,
+  "methods":[
+    {"name":"<init>","parameterTypes":["java.lang.reflect.InvocationHandler"] }, 
+    {"name":"getResourceHints","parameterTypes":[] }, 
+    {"name":"setResourceHints","parameterTypes":["java.util.List"] }
+  ]
+},
+{
+  "name":"org.apache.beam.sdk.transforms.resourcehints.ResourceHintsOptions$EmptyListDefault",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.beam.sdk.transforms.windowing.AutoValue_GlobalWindows_GlobalWindowMappingFn"
+},
+{
+  "name":"org.apache.beam.sdk.transforms.windowing.DefaultTrigger"
+},
+{
+  "name":"org.apache.beam.sdk.transforms.windowing.GlobalWindow$Coder"
+},
+{
+  "name":"org.apache.beam.sdk.transforms.windowing.GlobalWindows"
+},
+{
+  "name":"org.apache.beam.sdk.transforms.windowing.GlobalWindows$GlobalWindowMappingFn"
+},
+{
+  "name":"org.apache.beam.sdk.transforms.windowing.NonMergingWindowFn"
+},
+{
+  "name":"org.apache.beam.sdk.transforms.windowing.TimestampCombiner"
+},
+{
+  "name":"org.apache.beam.sdk.transforms.windowing.Trigger"
+},
+{
+  "name":"org.apache.beam.sdk.transforms.windowing.Window$ClosingBehavior"
+},
+{
+  "name":"org.apache.beam.sdk.transforms.windowing.Window$OnTimeBehavior"
+},
+{
+  "name":"org.apache.beam.sdk.transforms.windowing.WindowFn"
+},
+{
+  "name":"org.apache.beam.sdk.transforms.windowing.WindowMappingFn"
+},
+{
+  "name":"org.apache.beam.sdk.util.AutoValue_DoFnWithExecutionInformation"
+},
+{
+  "name":"org.apache.beam.sdk.util.DoFnWithExecutionInformation"
+},
+{
+  "name":"org.apache.beam.sdk.util.IdentityWindowFn"
+},
+{
+  "name":"org.apache.beam.sdk.util.UserCodeException",
+  "methods":[{"name":"wrap","parameterTypes":["java.lang.Throwable"] }]
+},
+{
+  "name":"org.apache.beam.sdk.values.PCollectionViews$IterableViewFn2"
+},
+{
+  "name":"org.apache.beam.sdk.values.PCollectionViews$ListViewFn2"
+},
+{
+  "name":"org.apache.beam.sdk.values.PCollectionViews$SimplePCollectionView"
+},
+{
+  "name":"org.apache.beam.sdk.values.PCollectionViews$SingletonViewFn2"
+},
+{
+  "name":"org.apache.beam.sdk.values.PCollectionViews$ValueOrMetadataCoder"
+},
+{
+  "name":"org.apache.beam.sdk.values.TimestampedValue$TimestampedValueCoder",
+  "methods":[{"name":"of","parameterTypes":["org.apache.beam.sdk.coders.Coder"] }]
+},
+{
+  "name":"org.apache.beam.sdk.values.TupleTag"
+},
+{
+  "name":"org.apache.beam.sdk.values.WindowingStrategy"
+},
+{
+  "name":"org.apache.beam.sdk.values.WindowingStrategy$AccumulationMode"
+},
+{
+  "name":"org.apache.beam.vendor.grpc.v1p48p1.com.google.protobuf.DescriptorProtos$EnumValueOptions",
+  "methods":[
+    {"name":"getDeprecated","parameterTypes":[] }, 
+    {"name":"getUninterpretedOption","parameterTypes":["int"] }, 
+    {"name":"getUninterpretedOptionCount","parameterTypes":[] }, 
+    {"name":"getUninterpretedOptionList","parameterTypes":[] }, 
+    {"name":"hasDeprecated","parameterTypes":[] }
+  ]
+},
+{
+  "name":"org.apache.beam.vendor.grpc.v1p48p1.com.google.protobuf.DescriptorProtos$EnumValueOptions$Builder",
+  "methods":[
+    {"name":"addUninterpretedOption","parameterTypes":["org.apache.beam.vendor.grpc.v1p48p1.com.google.protobuf.DescriptorProtos$UninterpretedOption"] }, 
+    {"name":"clearDeprecated","parameterTypes":[] }, 
+    {"name":"clearUninterpretedOption","parameterTypes":[] }, 
+    {"name":"getDeprecated","parameterTypes":[] }, 
+    {"name":"getUninterpretedOption","parameterTypes":["int"] }, 
+    {"name":"getUninterpretedOptionBuilder","parameterTypes":["int"] }, 
+    {"name":"getUninterpretedOptionCount","parameterTypes":[] }, 
+    {"name":"getUninterpretedOptionList","parameterTypes":[] }, 
+    {"name":"hasDeprecated","parameterTypes":[] }, 
+    {"name":"setDeprecated","parameterTypes":["boolean"] }, 
+    {"name":"setUninterpretedOption","parameterTypes":["int","org.apache.beam.vendor.grpc.v1p48p1.com.google.protobuf.DescriptorProtos$UninterpretedOption"] }
+  ]
+},
+{
+  "name":"org.apache.beam.vendor.grpc.v1p48p1.com.google.protobuf.DescriptorProtos$UninterpretedOption",
+  "methods":[{"name":"newBuilder","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.beam.vendor.grpc.v1p48p1.com.google.protobuf.ExtensionRegistry",
+  "methods":[{"name":"getEmptyRegistry","parameterTypes":[] }]
+},
+{
+  "name":"org.apache.beam.vendor.guava.v26_0_jre.com.google.common.collect.ImmutableBiMap$SerializedForm"
+},
+{
+  "name":"org.apache.beam.vendor.guava.v26_0_jre.com.google.common.collect.ImmutableCollection",
+  "allDeclaredFields":true,
+  "queryAllDeclaredMethods":true
+},
+{
+  "name":"org.apache.beam.vendor.guava.v26_0_jre.com.google.common.collect.ImmutableList",
+  "allDeclaredFields":true,
+  "queryAllDeclaredMethods":true
+},
+{
+  "name":"org.apache.beam.vendor.guava.v26_0_jre.com.google.common.collect.ImmutableList$SerializedForm"
+},
+{
+  "name":"org.apache.beam.vendor.guava.v26_0_jre.com.google.common.collect.ImmutableMap$SerializedForm"
+},
+{
+  "name":"org.apache.beam.vendor.guava.v26_0_jre.com.google.common.collect.RegularImmutableList",
+  "allDeclaredFields":true,
+  "queryAllDeclaredMethods":true,
+  "queryAllDeclaredConstructors":true
+},
+{
+  "name":"org.apache.beam.vendor.guava.v26_0_jre.com.google.common.reflect.Types$TypeVariableImpl",
+  "queryAllPublicMethods":true
+},
+{
+  "name":"org.apache.beam.vendor.guava.v26_0_jre.com.google.common.util.concurrent.AbstractFuture",
+  "fields":[
+    {"name":"listeners"}, 
+    {"name":"value"}, 
+    {"name":"waiters"}
+  ]
+},
+{
+  "name":"org.apache.beam.vendor.guava.v26_0_jre.com.google.common.util.concurrent.AbstractFuture$Waiter",
+  "fields":[
+    {"name":"next"}, 
+    {"name":"thread"}
+  ]
+},
+{
+  "name":"org.joda.time.Duration"
+},
+{
+  "name":"org.joda.time.base.BaseDuration"
+},
+{
+  "name":"org.robolectric.Robolectric"
+},
+{
+  "name":"sun.misc.Unsafe",
+  "allDeclaredFields":true,
+  "methods":[
+    {"name":"arrayBaseOffset","parameterTypes":["java.lang.Class"] }, 
+    {"name":"arrayIndexScale","parameterTypes":["java.lang.Class"] }, 
+    {"name":"copyMemory","parameterTypes":["long","long","long"] }, 
+    {"name":"copyMemory","parameterTypes":["java.lang.Object","long","java.lang.Object","long","long"] }, 
+    {"name":"getBoolean","parameterTypes":["java.lang.Object","long"] }, 
+    {"name":"getByte","parameterTypes":["long"] }, 
+    {"name":"getByte","parameterTypes":["java.lang.Object","long"] }, 
+    {"name":"getDouble","parameterTypes":["java.lang.Object","long"] }, 
+    {"name":"getFloat","parameterTypes":["java.lang.Object","long"] }, 
+    {"name":"getInt","parameterTypes":["long"] }, 
+    {"name":"getInt","parameterTypes":["java.lang.Object","long"] }, 
+    {"name":"getLong","parameterTypes":["long"] }, 
+    {"name":"getLong","parameterTypes":["java.lang.Object","long"] }, 
+    {"name":"getObject","parameterTypes":["java.lang.Object","long"] }, 
+    {"name":"objectFieldOffset","parameterTypes":["java.lang.reflect.Field"] }, 
+    {"name":"putBoolean","parameterTypes":["java.lang.Object","long","boolean"] }, 
+    {"name":"putByte","parameterTypes":["long","byte"] }, 
+    {"name":"putByte","parameterTypes":["java.lang.Object","long","byte"] }, 
+    {"name":"putDouble","parameterTypes":["java.lang.Object","long","double"] }, 
+    {"name":"putFloat","parameterTypes":["java.lang.Object","long","float"] }, 
+    {"name":"putInt","parameterTypes":["long","int"] }, 
+    {"name":"putInt","parameterTypes":["java.lang.Object","long","int"] }, 
+    {"name":"putLong","parameterTypes":["long","long"] }, 
+    {"name":"putLong","parameterTypes":["java.lang.Object","long","long"] }, 
+    {"name":"putObject","parameterTypes":["java.lang.Object","long","java.lang.Object"] }
+  ]
+},
+{
+  "name":"sun.security.provider.NativePRNG",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"sun.security.provider.SHA",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+}
+]
