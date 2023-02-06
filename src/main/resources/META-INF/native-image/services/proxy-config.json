@@ -235,5 +235,8 @@
   },
   {
     "interfaces": ["org.apache.beam.runners.portability.testing.TestPortablePipelineOptions","org.apache.beam.runners.portability.testing.TestUniversalRunner$Options","org.apache.beam.runners.direct.DirectOptions","org.apache.beam.runners.direct.DirectTestOptions"]
-  }
+  },
+  {
+    "interfaces": ["org.apache.beam.runners.direct.DirectTestOptions","org.apache.beam.runners.portability.testing.TestUniversalRunner$Options","org.apache.beam.runners.direct.DirectOptions","org.apache.beam.sdk.extensions.gcp.options.GcpOptions","org.apache.beam.runners.portability.testing.TestPortablePipelineOptions"]
+  }  
 ]
